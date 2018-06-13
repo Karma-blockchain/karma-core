@@ -10,7 +10,7 @@ Visit [karma.red](https://karma.red/) to learn about Karma.
 **NOTE:** The official Karma git repository location, default branch, and submodule remotes were recently changed. Existing
 repositories can be updated with the following steps:
 
-    git remote set-url origin https://github.com/GrapheneLab/karma-core.git
+    git remote set-url origin https://github.com/Karma-blockchain/karma-core
     git checkout master
     git remote set-head origin --auto
     git pull
@@ -19,5 +19,5 @@ repositories can be updated with the following steps:
  
 License
 -------
-Karma Core is under the MIT license. See [LICENSE](https://github.com/GrapheneLab/karma-core/blob/master/LICENSE.txt)
+Karma Core is under the MIT license. See [LICENSE](https://github.com/Karma-blockchain/karma-core/LICENSE.txt)
 for more information.
