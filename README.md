@@ -19,5 +19,5 @@ repositories can be updated with the following steps:
  
 License
 -------
-Karma Core is under the MIT license. See [LICENSE](https://github.com/Karma-blockchain/karma-core/LICENSE.txt)
+Karma Core is under the MIT license. See [LICENSE](https://github.com/Karma-blockchain/karma-core/blob/master/LICENSE.txt)
 for more information.
