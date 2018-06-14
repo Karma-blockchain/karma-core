@@ -23,7 +23,7 @@ repositories can be updated with the following steps:
     cd karma-core
     git checkout master
     docker build -t karma_node:m0.52 .
-    docker run -v $(pwd)/docker/default_config.ini:/var/lib/bitshares/config.ini -d --name karma_node_testnet_19 -p 5719:5719 -p 8090:8090 karma_node_0:m0.52
+    docker run -v $(pwd)/docker/default_config.ini:/var/lib/bitshares/config.ini -d --name karma_node_testnet_19 -p 5678:5678 -p 8090:8090 karma_node_0:m0.52
 
  
 License
