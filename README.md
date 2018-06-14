@@ -17,7 +17,7 @@ repositories can be updated with the following steps:
     git submodule sync --recursive
     git submodule update --init --recursive
 
-**Build and launch inside the docker**
+**Build and launch the docker container**
 
     git clone https://github.com/Karma-blockchain/karma-core
     cd karma-core
